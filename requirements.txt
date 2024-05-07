@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn==1.1.3
+scipy
+flask
+flask_restful
+joblib
+qrcode
+
